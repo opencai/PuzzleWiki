@@ -104,5 +104,5 @@ nofollow:
 deploy:
   type: git
   repository: 
-   github: https://github.com/Minfang-Lin/puzzlewiki.git,pages
+   github: https://github.com/Minfang-Lin/puzzlewiki.git,master
    coding: https://git.coding.net/Minfang-Lin/puzzlewiki.git,master
