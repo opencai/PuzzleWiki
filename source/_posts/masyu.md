@@ -23,6 +23,8 @@ Masyu以是一种画线形成回路的谜题，首次发表于日本谜题杂志
 ![Masyu例题，作者：Tom Collyer](/images/masyu_e.png)
 ![Masyu例题解答](/images/masyu_a.png)
 
+另有一种被称为双面珍珠的题目，把所有白珍珠换成黑珍珠，所有黑珍珠换成白珍珠之后还是合格的题目。
+
 
 ## 参考资料
 > - [Masyu - Janko.at](http://www.janko.at/Raetsel/Masyu/index.htm)
