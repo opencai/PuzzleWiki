@@ -1,5 +1,5 @@
 ---
-title: Doppelblock 夹子数和
+title: Double Block 夹子数和
 date: 2017-04-22 22:20
 author: 叶卡林娜
 categories: [Puzzle, 区域与数字类谜题]
