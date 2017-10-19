@@ -24,7 +24,7 @@ toc: true
 
 1. Fill some cells with red and blue circles. Left and upper hints are the number of red circles in the corresponding row/column, Right and lower hints are the number of blue circles in the corresponding row/column. 
 2. A region with red background contains more red circles than blue circles; a region with blue background contains more blue circles than red circles; a region with white background contains an equal number of red and blue circles. 
-<small>*感谢BobbyLiu翻译英文规则。</small>
+<small>\*感谢BobbyLiu翻译英文规则。</small>
 
 ![Majority Place，作者：稲葉直貴](/images/majorityplace_e.png)
 ![Majority Place例题解答](/images/majorityplace_a.png)

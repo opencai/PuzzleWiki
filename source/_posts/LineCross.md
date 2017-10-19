@@ -24,7 +24,7 @@ toc: true
 1. For every number, draw a line that starts with that number. 
 2. The number means how many times the line intersects with other lines. 
 3. Every line must end at an intersection. 
-<small>*感谢BobbyLiu翻译英文规则。</small>
+<small>\*感谢BobbyLiu翻译英文规则。</small>
 
 ![Line Cross，作者：稲葉直貴](/images/linecross_e.png)
 ![Line Cross例题解答](/images/linecross_a.png)

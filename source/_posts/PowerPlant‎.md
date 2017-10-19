@@ -24,7 +24,7 @@ toc: true
 1. For every power plant (circle with number in it), draw a polyline that starts with it and goes through houses. The number inside the circle is the number of houses the polyline goes through. 
 2. Each polyline must start with a power plant and ends at a house with no branches. 
 3. Every utility pole (small black dot) must be passed. 
-<small>*感谢BobbyLiu翻译英文规则。</small>
+<small>\*感谢BobbyLiu翻译英文规则。</small>
 
 ![Power Plant‎，作者：稲葉直貴](/images/powerplant_e.png)
 ![Power Plant‎例题解答](/images/powerplant_a.png)

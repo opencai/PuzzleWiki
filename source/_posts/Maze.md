@@ -25,7 +25,7 @@ toc: true
 1. Recover a labyrinth that starts from left-upper corner and ends at lower-right corner. 
 2. Every ◯ leads to two forks, one leads to the next ◯ or the goal, the other leads to a dead-end marked by ×. 
 3. Nowhere can be surrounded by walls, nor can there be any possible loop in the path. 
-<small>*感谢BobbyLiu翻译英文规则。</small>
+<small>\*感谢BobbyLiu翻译英文规则。</small>
 
 ![Maze，作者：稲葉直貴](/images/maze_e.png)
 ![Maze例题解答](/images/maze_a.png)
