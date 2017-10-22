@@ -3,7 +3,7 @@ title: Pair Mark 图形配对
 date: 2017-08-13 13:00
 author: 叶卡林娜
 categories: [Puzzle, 划区类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

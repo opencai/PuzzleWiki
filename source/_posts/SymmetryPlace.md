@@ -3,7 +3,7 @@ title: Symmetry Place 对称匹配
 date: 2017-10-19 17:30
 author: 叶卡林娜
 categories: [Puzzle, 放置类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

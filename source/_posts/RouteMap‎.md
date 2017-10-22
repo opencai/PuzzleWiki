@@ -3,7 +3,7 @@ title: Route Map‎ 地图迷路
 date: 2017-10-18 21:00
 author: 叶卡林娜
 categories: [Puzzle, 连线类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

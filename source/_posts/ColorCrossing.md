@@ -3,7 +3,7 @@ title: Color Crossing 彩球连
 date: 2017-10-19 19:53
 author: 叶卡林娜
 categories: [Puzzle, 连线类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---
@@ -22,7 +22,7 @@ Color Crossing （中文名: 彩球连, 日本語: カラークロス）是由�
 3. 何色の線も通らない点は存在しない。また、一つの点を二色の線が通る場合は交差のみ許される。
 
 
-Connect two big circles of the same color (red, yellow, blue) along the grid lines by a line of the same color. The paths must intersect in the small circles: yellow and red in orange, yellow and blue in green and red and blue in violet. Other intersections are not excluded, but a path must not cross itself. All grid lines must be used by paths.
+Connect two small circles of the same color (red, yellow, blue) along the grid lines by a line of the same color. The paths must intersect in the big circles: yellow and red in orange, yellow and blue in green and red and blue in violet. Other intersections are not excluded, but a path must not cross itself. All grid lines must be used by paths.
 
 ![Color Crossing，作者：稲葉直貴](/images/colorcrossing_e.png)
 ![Color Crossing例题解答](/images/colorcrossing_a.png)
@@ -34,3 +34,4 @@ Connect two big circles of the same color (red, yellow, blue) along the grid lin
 ## 参考资料
 
 > - [稲葉のパズル研究室](http://inabapuzzle.com/honkaku/color.html)
+> - [Janko.at](https://www.janko.at/Raetsel/Naoki/ColorCrossing.htm)

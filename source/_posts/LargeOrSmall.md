@@ -3,7 +3,7 @@ title: Large or Small 大或小
 date: 2017-10-18 22:00
 author: 叶卡林娜
 categories: [Puzzle, 数字推理类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

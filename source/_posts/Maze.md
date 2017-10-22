@@ -3,7 +3,7 @@ title: Maze 还原迷宫
 date: 2017-10-18 21:30
 author: 叶卡林娜
 categories: [Puzzle, 区域与关系类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

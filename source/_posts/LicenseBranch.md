@@ -3,12 +3,12 @@ title: Number Branch 分支
 date: 2017-10-19 22:26
 author: 叶卡林娜
 categories: [Puzzle, 连线类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---
 
-Number Branch（中文名: 分支, 日本語: ナンバーブランチ）是由日本谜题作家稻葉直貴于2000年发表的谜题。
+Number Branch（中文名: 分支, 日本語: ナンバーブランチ）是由日本谜题作家稻葉直貴于2001年发表的谜题。
 
 ## 规则
 

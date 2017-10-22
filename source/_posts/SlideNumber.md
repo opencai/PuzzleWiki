@@ -3,7 +3,7 @@ title: Slide Number 数字滑块
 date: 2017-10-19 19:18
 author: 叶卡林娜
 categories: [Puzzle, 放置类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---

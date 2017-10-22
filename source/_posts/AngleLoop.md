@@ -3,7 +3,7 @@ title: Angle Loop 角之回路
 date: 2017-10-19 18:30
 author: 叶卡林娜
 categories: [Puzzle, 回路类谜题]
-tag: [Japanese Puzzles]
+tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
 ---
