@@ -2,7 +2,7 @@
 title: Line Cross 邂逅
 date: 2017-08-13 10:00
 author: 叶卡林娜
-categories: [Puzzle, 连线类谜题]
+categories: [Puzzle, 划线类谜题]
 tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
 
