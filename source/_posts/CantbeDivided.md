@@ -12,7 +12,7 @@ Can't be Divided（禁止分割）是由日本谜题作家稻葉直貴于2001年
 
 ## 规则
 
-![Can't be Divided小型例题，作者：稲葉直貴](/images/cantbedivided.png)
+![Can't be Divided 小型例题，作者：稲葉直貴](/images/cantbedivided.png)
 
 将盘面分割成为一些四格拼板，每个拼板中恰好有一个星星。周围的拼板图案表示该行或该列不能出现的四格拼板样式。
 注意旋转相同的拼版才被认为是相同的拼版，翻转相同的拼版被视为不同的拼版。
@@ -26,8 +26,8 @@ Can't be Divided（禁止分割）是由日本谜题作家稻葉直貴于2001年
 2. The tetromino listed outside the region cannot appear in the corresponding row or column. 
 <small>\*感谢BobbyLiu翻译英文规则。</small>
 
-![Can't be Divided，作者：稲葉直貴](/images/cantbedivided_e.png)
-![Can't be Divided例题解答](/images/cantbedivided_a.png)
+![Can't be Divided 例题，作者：稲葉直貴](/images/cantbedivided_e.png)
+![Can't be Divided 例题解答](/images/cantbedivided_a.png)
 
 ## 参考资料
 

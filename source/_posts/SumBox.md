@@ -21,7 +21,7 @@ Sum Box（盒子之和, 日本語: サムボックス）是由日本谜题作家
 2. 黒マスをはさまず縦横一列に連続しているマスには同じ数字は入らない。
 
 
-![Sum Box ，作者：稲葉直貴](/images/sumbox_e.png)
+![Sum Box 例题，作者：稲葉直貴](/images/sumbox_e.png)
 ![Sum Box 例题解答](/images/sumbox_a.png)
 
 ## 参考资料
