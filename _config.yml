@@ -103,5 +103,6 @@ nofollow:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.coding.net/Minfang-Lin/puzzlewiki.git,master
-  repo: git@github.com:Minfang-Lin/PuzzleWiki.git,master
+  repository: 
+    coding: https://git.coding.net/Minfang-Lin/puzzlewiki.git,master
+    github: git@github.com:Minfang-Lin/PuzzleWiki.git,master
