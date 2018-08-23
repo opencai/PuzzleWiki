@@ -1,5 +1,5 @@
 ---
-title: Separation 
+title: Separation 同字分离
 date: 2018-08-20 21:38
 author: 叶卡林娜
 categories: [Puzzle, 回路类谜题]
@@ -8,7 +8,7 @@ toc: true
 
 ---
 
-Separation（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。
+Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。
 
 ## 规则
 
