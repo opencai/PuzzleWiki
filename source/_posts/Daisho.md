@@ -5,7 +5,6 @@ author: 叶卡林娜
 categories: [Puzzle, 区域与关系类谜题]
 tag: [Japanese Puzzles, 稲葉直貴]
 toc: true
-
 ---
 
 Daisho（大小分割, 日本語:  大小分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。
@@ -21,14 +20,9 @@ Daisho（大小分割, 日本語:  大小分割）是由日本谜题作家稻葉
 3. 同じ大きさのブロックは辺で接しない。
 
 ![Daisho 例题，作者：稲葉直貴](/images/daisho_e.png)
+
 ![Daisho 例题解答](/images/daisho_a.png)
 
 ## 参考资料
 
 > - [稲葉のパズル研究室](http://inabapuzzle.com/honkaku/daisho.html)
-
-
-
-
-
-
